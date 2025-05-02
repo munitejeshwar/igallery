@@ -125,6 +125,6 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-![alt text](image.png)
+![image](https://github.com/user-attachments/assets/08e26636-3509-4cdd-a931-1ef51253c1a9)
 ## RESULT:
 The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
